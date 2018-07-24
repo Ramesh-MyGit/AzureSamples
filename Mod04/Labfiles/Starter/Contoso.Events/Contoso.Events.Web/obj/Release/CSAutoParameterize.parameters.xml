@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="EventsContextConnectionString-Web.config Connection String" description="EventsContextConnectionString Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:sv20532ramesh.database.windows.net,1433;Database=db20532;User ID=testuser@sv20532ramesh;Password=TestPa$$w0rd;Trusted_Connection=False;Encrypt=True;Connection Timeout=180;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="F:\\Mod04\\Labfiles\\Starter\\Contoso\.Events\\Contoso\.Events\.Web\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='EventsContextConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

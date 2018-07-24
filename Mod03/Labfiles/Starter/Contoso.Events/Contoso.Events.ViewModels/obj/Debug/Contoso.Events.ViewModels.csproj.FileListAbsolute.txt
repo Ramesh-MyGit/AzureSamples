@@ -1,0 +1,13 @@
+F:\Mod03\Labfiles\Starter\Contoso.Events\Contoso.Events.ViewModels\bin\Debug\Contoso.Events.ViewModels.dll
+F:\Mod03\Labfiles\Starter\Contoso.Events\Contoso.Events.ViewModels\bin\Debug\Contoso.Events.ViewModels.pdb
+F:\Mod03\Labfiles\Starter\Contoso.Events\Contoso.Events.ViewModels\bin\Debug\Contoso.Events.Data.dll
+F:\Mod03\Labfiles\Starter\Contoso.Events\Contoso.Events.ViewModels\bin\Debug\Contoso.Events.Models.dll
+F:\Mod03\Labfiles\Starter\Contoso.Events\Contoso.Events.ViewModels\bin\Debug\EntityFramework.dll
+F:\Mod03\Labfiles\Starter\Contoso.Events\Contoso.Events.ViewModels\bin\Debug\EntityFramework.SqlServer.dll
+F:\Mod03\Labfiles\Starter\Contoso.Events\Contoso.Events.ViewModels\bin\Debug\Contoso.Events.Data.pdb
+F:\Mod03\Labfiles\Starter\Contoso.Events\Contoso.Events.ViewModels\bin\Debug\Contoso.Events.Models.pdb
+F:\Mod03\Labfiles\Starter\Contoso.Events\Contoso.Events.ViewModels\bin\Debug\EntityFramework.xml
+F:\Mod03\Labfiles\Starter\Contoso.Events\Contoso.Events.ViewModels\bin\Debug\EntityFramework.SqlServer.xml
+F:\Mod03\Labfiles\Starter\Contoso.Events\Contoso.Events.ViewModels\obj\Debug\Contoso.Events.ViewModels.csprojResolveAssemblyReference.cache
+F:\Mod03\Labfiles\Starter\Contoso.Events\Contoso.Events.ViewModels\obj\Debug\Contoso.Events.ViewModels.dll
+F:\Mod03\Labfiles\Starter\Contoso.Events\Contoso.Events.ViewModels\obj\Debug\Contoso.Events.ViewModels.pdb

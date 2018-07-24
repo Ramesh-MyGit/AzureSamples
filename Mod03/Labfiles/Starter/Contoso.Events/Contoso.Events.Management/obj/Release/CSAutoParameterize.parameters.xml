@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="defaultConnection-Web.config Connection String" description="defaultConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDb)\MSSQLLocalDB;Initial Catalog=EventsContextModule3Lab;Pooling=True;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="F:\\Mod03\\Labfiles\\Starter\\Contoso\.Events\\Contoso\.Events\.Management\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='defaultConnection']/@connectionString" />
+  </parameter>
+</parameters>

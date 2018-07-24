@@ -1,0 +1,11 @@
+F:\Mod04\Labfiles\Starter\Contoso.Events\Contoso.Events.Data\bin\Debug\Contoso.Events.Data.dll
+F:\Mod04\Labfiles\Starter\Contoso.Events\Contoso.Events.Data\bin\Debug\Contoso.Events.Data.pdb
+F:\Mod04\Labfiles\Starter\Contoso.Events\Contoso.Events.Data\bin\Debug\Contoso.Events.Models.dll
+F:\Mod04\Labfiles\Starter\Contoso.Events\Contoso.Events.Data\bin\Debug\EntityFramework.dll
+F:\Mod04\Labfiles\Starter\Contoso.Events\Contoso.Events.Data\bin\Debug\EntityFramework.SqlServer.dll
+F:\Mod04\Labfiles\Starter\Contoso.Events\Contoso.Events.Data\bin\Debug\Contoso.Events.Models.pdb
+F:\Mod04\Labfiles\Starter\Contoso.Events\Contoso.Events.Data\bin\Debug\EntityFramework.xml
+F:\Mod04\Labfiles\Starter\Contoso.Events\Contoso.Events.Data\bin\Debug\EntityFramework.SqlServer.xml
+F:\Mod04\Labfiles\Starter\Contoso.Events\Contoso.Events.Data\obj\Debug\Contoso.Events.Data.csprojResolveAssemblyReference.cache
+F:\Mod04\Labfiles\Starter\Contoso.Events\Contoso.Events.Data\obj\Debug\Contoso.Events.Data.dll
+F:\Mod04\Labfiles\Starter\Contoso.Events\Contoso.Events.Data\obj\Debug\Contoso.Events.Data.pdb

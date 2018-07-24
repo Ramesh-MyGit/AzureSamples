@@ -1,0 +1,8 @@
+F:\Mod04\Labfiles\Starter\Contoso.Events\Contoso.Events.Models\bin\Release\Contoso.Events.Models.dll
+F:\Mod04\Labfiles\Starter\Contoso.Events\Contoso.Events.Models\bin\Release\Contoso.Events.Models.pdb
+F:\Mod04\Labfiles\Starter\Contoso.Events\Contoso.Events.Models\bin\Release\EntityFramework.dll
+F:\Mod04\Labfiles\Starter\Contoso.Events\Contoso.Events.Models\bin\Release\EntityFramework.SqlServer.dll
+F:\Mod04\Labfiles\Starter\Contoso.Events\Contoso.Events.Models\bin\Release\EntityFramework.xml
+F:\Mod04\Labfiles\Starter\Contoso.Events\Contoso.Events.Models\bin\Release\EntityFramework.SqlServer.xml
+F:\Mod04\Labfiles\Starter\Contoso.Events\Contoso.Events.Models\obj\Release\Contoso.Events.Models.dll
+F:\Mod04\Labfiles\Starter\Contoso.Events\Contoso.Events.Models\obj\Release\Contoso.Events.Models.pdb
